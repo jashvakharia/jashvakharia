@@ -9,10 +9,3 @@
 
 </p>
 
-
-### Here Are My GitHub Stats
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jashvakharia&layout=compact&theme=blueberry)](https://github.com/jashvakharia/github-readme-stats)
-
