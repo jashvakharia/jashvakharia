@@ -14,5 +14,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jashvakharia&layout=compact&theme=blueberry)](https://github.com/jash69/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jashvakharia&layout=compact&theme=blueberry)](https://github.com/jashvakharia/github-readme-stats)
 
